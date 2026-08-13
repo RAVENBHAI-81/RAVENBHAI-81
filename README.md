@@ -138,7 +138,7 @@ class RavenRX:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@RAVENRX-0d1117?style=for-the-badge&logo=telegram&logoColor=2ca5e0)](https://t.me/RAVENRX)
+[![Telegram](https://img.shields.io/badge/Telegram-@RAVENBHAI_81-0d1117?style=for-the-badge&logo=telegram&logoColor=2ca5e0)](https://t.me/RAVENBHAI_81)
 [![Email](https://img.shields.io/badge/Email-ravenrx91@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078d4)](mailto:ravenrx91@outlook.com)
 [![Website](https://img.shields.io/badge/Website-rnsl.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://rx-network-security-labs.github.io/website)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-0d1117?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.gg/nWt82zV3s4)
